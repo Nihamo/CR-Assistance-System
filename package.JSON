@@ -1,0 +1,16 @@
+{
+    "name": "cr-assistance-system",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "mongodb": "^4.17.2",
+        "mongoose": "^8.9.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
